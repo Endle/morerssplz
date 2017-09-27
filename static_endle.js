@@ -49,7 +49,7 @@
   rssLogo.style.left = '58px';
   rssLogo.style.top = '0';
   rssLogo.style.width = '58px'
-  rssLogo.style.position = 'fixed';
+  rssLogo.style.position = 'absolute';
   rssLogo.style.zIndex = '42';
   document.body.appendChild(rssLogo);
 }) ();
